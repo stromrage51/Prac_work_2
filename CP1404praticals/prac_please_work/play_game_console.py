@@ -1,6 +1,6 @@
 # Using the "model" class Game to play via the console "view"
 
-from board_game import TicTacToeGame, GameError
+from CP1404praticals.prac_please_work.board_game import TicTacToeGame, GameError
 
 
 def display_board(board):

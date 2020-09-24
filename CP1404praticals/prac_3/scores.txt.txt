@@ -1,0 +1,7 @@
+The score was 15 and grade was Bad
+The score was 55 and grade was Passable
+The score was 5 and grade was Bad
+The score was 37 and grade was Bad
+The score was 24 and grade was Bad
+The score was 99 and grade was Excellent
+The score was 98 and grade was Excellent

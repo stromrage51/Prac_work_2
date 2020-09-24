@@ -1,7 +1,7 @@
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.app import StringProperty
-from board_game import TicTacToeGame
+from CP1404praticals.prac_please_work.board_game import TicTacToeGame
 
 
 class TicTacToe(App):
