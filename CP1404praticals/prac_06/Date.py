@@ -7,15 +7,9 @@ Student name: Matthew Ballarino
 Student number: 13291475
 """
 
-class Car:
-    """Represent a Car object."""
+class Date:
 
     def __init__(self, day=0, month=0, year=0):
-        """Initialise a Car instance.
-
-        name: string name of the car
-        fuel: float, one unit of fuel drives one kilometre
-        """
         self.day = day
         self.month = month
         self.year = year
@@ -23,7 +17,9 @@ class Car:
     def _str_(self):
         return "day={0}, fuel={1}, year={2}".format(self.day, self.month, self.year)
 
-
+    def add_day(self, amount):
+        """Add amount to the car's fuel."""
+        self.day += amount
 
 
 
