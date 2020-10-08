@@ -9,7 +9,7 @@ Student name: Matthew Ballarino
 Student number: 13291475
 """
 
-from prac_06.guitar import Guitar
+from CP1404praticals.prac_06.guitar import Guitar
 
 
 """Tests for Guitar class."""

@@ -8,7 +8,7 @@ Student name: Matthew Ballarino
 Student number: 13291475
 """
 
-from prac_06.programming_language import Programing_Language
+from CP1404praticals.prac_06.programming_language import Programing_Language
 
 
 def main():
