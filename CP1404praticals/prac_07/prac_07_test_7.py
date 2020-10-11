@@ -1,22 +1,11 @@
-BoxLayout:
-        orientation: 'vertical'
-#    orientation: 'horizontal'
-Button:
-text: 'one'
-Button:
-text: 'two'
-Button:
-text: 'three'
-
-from kivy.app import App
-from kivy.lang import Builder
 
 
-class BoxLayoutDemo(App):
-    def build(self):
-        self.title = "Box Layout Demo"
-        self.root = Builder.load_file('box_layout.kv')
-        return self.root
+
+print((3 >= 3) or (5 < 7) and (9 != 5))
 
 
-BoxLayoutDemo().run()
+print(9 % 2)
+
+
+
+

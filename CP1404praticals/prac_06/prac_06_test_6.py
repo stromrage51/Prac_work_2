@@ -1,11 +1,6 @@
 
 
+vehicle = Taxi('Prius')
+print(vehicle.fuel)
+vehicle.drive(50)
 
-
-
-d = {'a': 123, 'b': 234}
-
-
-d['a'] += 1
-
-print(d.get('a'))
