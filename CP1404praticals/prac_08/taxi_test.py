@@ -11,7 +11,7 @@ from CP1404praticals.prac_08.taxi import Taxi
 
 def main():
     # Create a new taxi with name "Prius 1", 100 units of fuel and price of $1.23/km
-    current_taxi = Taxi("Prius 1", 100, 1.23)
+    current_taxi = Taxi("Prius 1", 100)
 
     # Drive the taxi 40km
     current_taxi.drive(40)
